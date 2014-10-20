@@ -8,6 +8,6 @@ setup(
 	author = "Herry Zhang",
 	author_email = "z858570636@gmail.com",
 	description = "A package to help you send a sinaweibo",
-	url = "https://github.com/zhangyuyan/send-sina-weibo/",
+	url = "https://codeload.github.com/zhangyuyan/send-sina-weibo/zip/master",
 	include_package_data = True,
 )
